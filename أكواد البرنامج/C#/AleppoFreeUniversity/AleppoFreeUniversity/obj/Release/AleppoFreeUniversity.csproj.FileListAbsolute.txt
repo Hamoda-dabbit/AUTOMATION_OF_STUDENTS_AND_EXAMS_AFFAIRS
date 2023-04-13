@@ -1,0 +1,107 @@
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.pdb
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.frmlogin.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.PL.FRM_MAIN.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.Properties.Resources.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Student_insert.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.GenerateResource.Cache
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.pdb
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csprojResolveAssemblyReference.cache
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.frmlogin.resources
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.PL.FRM_MAIN.resources
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.Properties.Resources.resources
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Student_insert.resources
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.GenerateResource.Cache
+C:\Users\hamsho\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Degree_Insert.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Degree_Insert.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Backup.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Restore.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.pdb
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.frmlogin.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.PL.FRM_MAIN.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.Properties.Resources.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Backup.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Degree_Insert.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Restore.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Student_insert.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.GenerateResource.Cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity1\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Dergree_score.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.pdb
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csprojResolveAssemblyReference.cache
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.frmlogin.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.PL.FRM_MAIN.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.Properties.Resources.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Dergree_score.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Backup.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Degree_Insert.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Restore.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Student_insert.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity3\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.GenerateResource.Cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.frmlogin.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.PL.FRM_MAIN.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.Properties.Resources.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Dergree_score.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Backup.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Degree_Insert.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Restore.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Student_insert.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.GenerateResource.Cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity4\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.pdb
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.pdb
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.frmlogin.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.PL.FRM_MAIN.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.Properties.Resources.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Dergree_score.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Backup.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Degree_Insert.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Restore.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Student_insert.resources
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.GenerateResource.Cache
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.ResolveComReference.cache
+E:\الكلية\السنة الرابعة\الفصل الثاني\المشروع\AleppoFreeUniversity5\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.ResolveComReference.cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.pdb
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.frmlogin.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.PL.FRM_MAIN.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.Properties.Resources.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Dergree_score.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Backup.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Degree_Insert.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Restore.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.UserControls.US_Student_insert.resources
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity8\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.GenerateResource.Cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity\AleppoFreeUniversity\AleppoFreeUniversity\bin\Release\AleppoFreeUniversity.exe.config
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.csproj.ResolveComReference.cache
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.exe
+C:\Users\Hamoda\Desktop\AleppoFreeUniversity\AleppoFreeUniversity\AleppoFreeUniversity\obj\Release\AleppoFreeUniversity.pdb
